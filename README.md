@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**karthika7599/karthika7599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a fourth year electronics student at National Institute of Technology Calicut.
 
 Here are some ideas to get you started:
